@@ -4,9 +4,6 @@ import ChatbotButton from '@/components/ChatbotButton';
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      Hello world
-      {/* <ChatbotButton /> */}
-    </div>
+    <div className={styles.page}>Hello world 2{/* <ChatbotButton /> */}</div>
   );
 }
